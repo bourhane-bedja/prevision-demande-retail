@@ -35,6 +35,19 @@ Les résultats seront complétés après l’importation des graphiques :
 - Matplotlib, Seaborn  
 - Scikit-learn / Statsmodels / Prophet  
   
+##  Résultats clés
+
+### Saisonnalité de la demande
+Ce graphique montre les variations saisonnières observées dans les données, permettant d’identifier les périodes de forte et faible demande.
+
+![Graphique de la saisonnalité](images/saisonnalite.png)
+
+---
+
+### Ventes quotidiennes
+Ce graphique illustre l’évolution des ventes au jour le jour, utile pour visualiser les tendances, les pics d’activité et les irrégularités.
+
+![Graphique des ventes quotidiennes](images/vente_quotidiennes.png)
 
 ---
 
