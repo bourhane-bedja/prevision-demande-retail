@@ -5,12 +5,8 @@ Il inclut un notebook d’analyse, des visualisations et un modèle de prévisio
 
 ---
 
-## 📁 Structure du dépôt
 
-
----
-
-## 📊 Méthodologie
+##  Méthodologie
 
 - Préparation et nettoyage des données  
 - Analyse exploratoire (EDA)  
@@ -38,7 +34,7 @@ Les résultats seront complétés après l’importation des graphiques :
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
 - Scikit-learn / Statsmodels / Prophet  
-- Jupyter Notebook  
+  
 
 ---
 
