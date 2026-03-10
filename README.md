@@ -44,10 +44,11 @@ Ce graphique montre les variations saisonnières observées dans les données, p
 
 ---
 
-### Ventes quotidiennes
+### Vente quotidiennes
 Ce graphique illustre l’évolution des ventes au jour le jour, utile pour visualiser les tendances, les pics d’activité et les irrégularités.
 
-![Graphique des ventes quotidiennes](images/vente_quotidiennes.png)
+![Graphique des ventes quotidiennes](images/vente%20quotidiennes.png)
+
 
 
 ---
