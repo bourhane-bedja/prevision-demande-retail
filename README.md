@@ -52,6 +52,11 @@ Ce graphique illustre l’évolution des ventes au jour le jour, utile pour visu
 
 
 ---
+##  Conclusion
+
+Ce projet met en évidence l’importance de la prévision de la demande dans le retail pour optimiser les stocks et réduire les ruptures.  
+L’analyse exploratoire et les visualisations ont permis d’identifier des tendances claires, ainsi que des variations saisonnières significatives.  
+Le modèle de prévision fournit une base solide pour anticiper les ventes et améliorer la prise de décision opérationnelle.
 
 ##  Auteur
 
