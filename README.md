@@ -60,7 +60,7 @@ Le modèle de prévision fournit une base solide pour anticiper les ventes et am
 
 ##  Auteur
 
-**Bourhane Bedja Ben Ahmed **  
+Bourhane Bedja Ben Ahmed  
 Master 2 MIASHS – Data Science & Statistiques  
 Université Lumière Lyon 2  
 
